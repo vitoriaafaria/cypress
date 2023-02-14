@@ -1,2 +1,1 @@
-# cypress
-Testes automatizados Cypress
+Instruções de script.
